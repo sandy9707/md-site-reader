@@ -9,11 +9,11 @@ config.lang = 'zh'
 config.langs = ['en', 'ja', 'pt-br', 'zh']
 
 config.docProject = 'sandy9707/SimpRead'
-// e.g https://raw.githubusercontent.com/{sandy9707/SimpRead}/master/{beanfactory.md}
-config.dataUrl = 'https://raw.githubusercontent.com/sandy9707/SimpRead/master/2022/'
+// e.g https://raw.githubusercontent.com/{sandy9707/SimpRead}/main/{beanfactory.md}
+config.dataUrl = 'https://raw.githubusercontent.com/sandy9707/SimpRead/main/doc/'
 config.docUrl = 'https://github.com/sandy9707/SimpRead'
-//   // e.g https://github.com/sandy9707/SimpRead/edit/master/http.md
-config.editUrl = 'https://github.com/sandy9707/SimpRead/edit/master'
+//   // e.g https://github.com/sandy9707/SimpRead/edit/main/http.md
+config.editUrl = 'https://github.com/sandy9707/SimpRead/edit/main'
 
 config.project = 'sandy9707/md-site-reader'
 config.projectUrl = 'https://github.com/sandy9707/md-site-reader'
