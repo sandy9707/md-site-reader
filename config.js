@@ -1,11 +1,11 @@
   // page title = baseTile + content title
-config.baseTitle = 'Go Web 编程 Test'
-config.siteName = '《Go Web 编程》 Test'
-config.siteDes = 'Go Web 编程的描述信息 Test'
-config.siteKey = 'go-web-dev'
+config.baseTitle = '叶子的简阅知识库'
+config.siteName = '叶子的简阅知识库'
+config.siteDes = 'From yezi\'s SimpRead'
+config.siteKey = 'SimpRead'
 config.logoUrl = location.pathname
 
-config.lang = 'en'
+config.lang = 'zh'
 config.langs = ['en', 'ja', 'pt-br', 'zh']
 
 config.docProject = 'astaxie/build-web-application-with-golang'
