@@ -6,4 +6,4 @@ cd $SHELL_FOLDER
 git add .
 commitTime=`date +"%Y-%m-%d %H-%M-%S"`
 git commit -a -m "${commitTime}"
-git push origin main
+git push origin master
