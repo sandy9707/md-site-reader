@@ -24,7 +24,7 @@
 
 ## 示例
 
-**示例文档** https://inhere.github.io/md-site-reader/
+**示例文档** https://sandy9707.github.io/md-site-reader/
 
 示例渲染的是 @astaxie 的github项目 [《Go web 编程》](https://github.com/astaxie/build-web-application-with-golang)
 
