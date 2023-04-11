@@ -1,5 +1,5 @@
   // page title = baseTile + content title
-config.baseTitle = 'Go Web 编程'
+config.baseTitle = 'Go Web 编程 Test'
 config.siteName = '《Go Web 编程》'
 config.siteDes = 'Go Web 编程的描述信息'
 config.siteKey = 'go-web-dev'
