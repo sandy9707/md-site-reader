@@ -8,20 +8,20 @@ config.logoUrl = location.pathname
 config.lang = 'zh'
 config.langs = ['en', 'ja', 'pt-br', 'zh']
 
-config.docProject = 'astaxie/build-web-application-with-golang'
-// e.g https://raw.githubusercontent.com/{astaxie/build-web-application-with-golang}/master/{beanfactory.md}
-config.dataUrl = 'https://raw.githubusercontent.com/astaxie/build-web-application-with-golang/master/en/'
-config.docUrl = 'https://github.com/astaxie/build-web-application-with-golang'
-//   // e.g https://github.com/astaxie/build-web-application-with-golang/edit/master/http.md
-config.editUrl = 'https://github.com/astaxie/build-web-application-with-golang/edit/master'
+config.docProject = 'sandy9707/SimpRead'
+// e.g https://raw.githubusercontent.com/{sandy9707/SimpRead}/master/{beanfactory.md}
+config.dataUrl = 'https://raw.githubusercontent.com/sandy9707/SimpRead/master/2022/'
+config.docUrl = 'https://github.com/sandy9707/SimpRead'
+//   // e.g https://github.com/sandy9707/SimpRead/edit/master/http.md
+config.editUrl = 'https://github.com/sandy9707/SimpRead/edit/master'
 
 config.project = 'sandy9707/md-site-reader'
 config.projectUrl = 'https://github.com/sandy9707/md-site-reader'
-config.issueUrl = 'https://github.com/astaxie/build-web-application-with-golang/issues'
+config.issueUrl = 'https://github.com/sandy9707/SimpRead/issues'
 
 
-config.authorPage = 'https://github.com/astaxie'
-config.authorName = 'astaxie'
+config.authorPage = 'https://github.com/sandy9707'
+config.authorName = 'sandy9707'
 
 config.theme = 'paper'
 config.codeTheme = 'github'
